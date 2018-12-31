@@ -6,3 +6,4 @@ Everything is alright !
 And now we modify from github !
 
 mais aussi depuis ma machine locale
+et c'est cool !
